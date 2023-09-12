@@ -1,0 +1,5872 @@
+Albania	1970
+				male  1277
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						15-24 years  4021
+						35-54 years  5181
+						75+ years  1409
+						25-34 years  2639
+						55-74 years  4481
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+				5-14 years  1452
+Armenia	1905
+				male  1410
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						75+ years  3496
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						15-24 years  2186
+						35-54 years  5945
+						75+ years  1114
+						25-34 years  2872
+						55-74 years  3091
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						15-24 years  3550
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+						35-54 years  4024
+						75+ years  2851
+						25-34 years  1266
+						55-74 years  4191
+				15-24 years  4367
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Azerbaijan	1656
+				male  1244
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						75+ years  1953
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+						35-54 years  3374
+						75+ years  1386
+						25-34 years  1171
+						55-74 years  3259
+				15-24 years  5490
+				35-54 years  25080
+				75+ years  3339
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						15-24 years  3514
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						75+ years  2450
+						25-34 years  1966
+						55-74 years  5682
+				15-24 years  4475
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+						5-14 years  1630
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						75+ years  1602
+						25-34 years  10065
+						55-74 years  7712
+						5-14 years  1399
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+				5-14 years  3029
+Bulgaria	36388
+				male  26420
+						15-24 years  1892
+						35-54 years  7885
+						75+ years  4961
+						25-34 years  2593
+						55-74 years  8879
+				female  9968
+						35-54 years  2164
+						75+ years  2478
+						55-74 years  3855
+				15-24 years  2543
+				35-54 years  10049
+				75+ years  7439
+				25-34 years  3322
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						15-24 years  3086
+						35-54 years  10583
+						75+ years  1243
+						25-34 years  3973
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						75+ years  1773
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+						15-24 years  1589
+						35-54 years  2479
+						25-34 years  1351
+				15-24 years  7845
+				35-54 years  14477
+				75+ years  1992
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						75+ years  1460
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+						35-54 years  2071
+						25-34 years  2267
+				15-24 years  17956
+				35-54 years  12990
+				75+ years  1581
+				25-34 years  12455
+				55-74 years  6232
+				5-14 years  1866
+Costa Rica	6792
+				male  5813
+						15-24 years  1241
+						35-54 years  2089
+						25-34 years  1434
+				15-24 years  1577
+				35-54 years  2352
+				25-34 years  1668
+Croatia	18429
+				male  13754
+						15-24 years  1058
+						35-54 years  4514
+						75+ years  1935
+						25-34 years  1390
+						55-74 years  4804
+				female  4675
+						35-54 years  1230
+						55-74 years  1899
+				15-24 years  1290
+				35-54 years  5744
+				75+ years  2925
+				25-34 years  1693
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						15-24 years  2066
+						35-54 years  9886
+						75+ years  5272
+						25-34 years  4141
+						55-74 years  8289
+				female  11675
+						15-24 years  1456
+						35-54 years  3684
+						75+ years  1301
+						25-34 years  1686
+						55-74 years  3452
+				15-24 years  3522
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						15-24 years  3011
+						35-54 years  13799
+						75+ years  3744
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+						35-54 years  3086
+						75+ years  1748
+						55-74 years  2968
+				15-24 years  3596
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+						35-54 years  4200
+						75+ years  1577
+						25-34 years  1281
+						55-74 years  3197
+				female  4329
+						35-54 years  1538
+						55-74 years  1486
+				35-54 years  5738
+				75+ years  2359
+				25-34 years  1604
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+						35-54 years  3644
+						25-34 years  3593
+						55-74 years  1673
+				female  6238
+						15-24 years  3147
+						25-34 years  1260
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+				55-74 years  1994
+				5-14 years  1078
+El Salvador	11683
+				male  8338
+						15-24 years  2539
+						35-54 years  2183
+						25-34 years  2290
+				female  3345
+						15-24 years  1788
+				15-24 years  4327
+				35-54 years  2700
+				25-34 years  2939
+				55-74 years  1105
+Estonia	7034
+				male  5641
+						35-54 years  2295
+						55-74 years  1525
+				female  1393
+				35-54 years  2715
+				55-74 years  1973
+Finland	33677
+				male  26017
+						15-24 years  3099
+						35-54 years  10740
+						75+ years  1607
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+						35-54 years  3168
+						25-34 years  1041
+						55-74 years  2185
+				15-24 years  3822
+				35-54 years  13908
+				75+ years  2124
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						15-24 years  4439
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Georgia	3224
+				male  2530
+				55-74 years  1017
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						15-24 years  3685
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+						35-54 years  3204
+						75+ years  1402
+						25-34 years  1541
+						55-74 years  2812
+				female  2540
+				15-24 years  1020
+				35-54 years  3994
+				75+ years  1760
+				25-34 years  1910
+				55-74 years  3643
+Guatemala	8149
+				male  6176
+						15-24 years  2054
+						35-54 years  1615
+						25-34 years  1576
+				female  1973
+				15-24 years  3035
+				35-54 years  1944
+				25-34 years  1967
+Guyana	3426
+				male  2608
+						35-54 years  1003
+				35-54 years  1201
+Hungary	73891
+				male  55776
+						15-24 years  2944
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						75+ years  4069
+						25-34 years  1133
+						55-74 years  6319
+				15-24 years  3571
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Iceland	1108
+Ireland	12574
+				male  10123
+						15-24 years  2092
+						35-54 years  3542
+						25-34 years  2318
+						55-74 years  1832
+				female  2451
+				15-24 years  2472
+				35-54 years  4498
+				25-34 years  2788
+				55-74 years  2372
+Israel	11294
+				male  8613
+						15-24 years  1498
+						35-54 years  2625
+						75+ years  1028
+						25-34 years  1503
+						55-74 years  1888
+				female  2681
+				15-24 years  1823
+				35-54 years  3370
+				75+ years  1495
+				25-34 years  1885
+				55-74 years  2627
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						15-24 years  1692
+						35-54 years  9801
+						75+ years  6083
+						25-34 years  3248
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+						5-14 years  1398
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+				5-14 years  2130
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						75+ years  1751
+						25-34 years  20595
+						55-74 years  12659
+						5-14 years  1458
+				female  18160
+						15-24 years  4276
+						35-54 years  5173
+						75+ years  1529
+						25-34 years  3266
+						55-74 years  3463
+				15-24 years  18774
+				35-54 years  37598
+				75+ years  3280
+				25-34 years  23861
+				55-74 years  16122
+				5-14 years  1911
+Kyrgyzstan	13090
+				male  10453
+						15-24 years  2034
+						35-54 years  3821
+						25-34 years  2525
+						55-74 years  1491
+				female  2637
+				15-24 years  2779
+				35-54 years  4534
+				25-34 years  2970
+				55-74 years  1930
+Latvia	12770
+				male  10296
+						35-54 years  4265
+						25-34 years  1592
+						55-74 years  2859
+				female  2474
+				15-24 years  1047
+				35-54 years  5033
+				75+ years  1143
+				25-34 years  1804
+				55-74 years  3691
+Lithuania	28039
+				male  23028
+						15-24 years  2352
+						35-54 years  10118
+						75+ years  1191
+						25-34 years  3560
+						55-74 years  5732
+				female  5011
+						35-54 years  1834
+						55-74 years  1545
+				15-24 years  2684
+				35-54 years  11952
+				75+ years  2020
+				25-34 years  3998
+				55-74 years  7277
+Luxembourg	1958
+				male  1416
+Mauritius	3894
+				male  2899
+						35-54 years  1149
+				35-54 years  1380
+				25-34 years  1079
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						75+ years  3732
+						25-34 years  23172
+						55-74 years  10865
+						5-14 years  2470
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+						25-34 years  4054
+						55-74 years  1453
+						5-14 years  1460
+				15-24 years  33664
+				35-54 years  29997
+				75+ years  4004
+				25-34 years  27226
+				55-74 years  12318
+				5-14 years  3930
+Netherlands	50833
+				male  33947
+						15-24 years  2943
+						35-54 years  13797
+						75+ years  3095
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						15-24 years  1128
+						35-54 years  6585
+						75+ years  1851
+						25-34 years  2307
+						55-74 years  4959
+				15-24 years  4071
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+						15-24 years  2683
+						35-54 years  3503
+						25-34 years  2379
+						55-74 years  1778
+				female  3355
+						35-54 years  1131
+				15-24 years  3458
+				35-54 years  4634
+				25-34 years  3024
+				55-74 years  2327
+Nicaragua	2013
+				male  1531
+Norway	16992
+				male  12307
+						15-24 years  1895
+						35-54 years  4269
+						25-34 years  2258
+						55-74 years  2823
+				female  4685
+						35-54 years  1783
+						55-74 years  1268
+				15-24 years  2416
+				35-54 years  6052
+				75+ years  1321
+				25-34 years  2984
+				55-74 years  4091
+Panama	3483
+				male  2971
+				35-54 years  1013
+Paraguay	4783
+				male  3326
+						15-24 years  1111
+				female  1457
+				15-24 years  1790
+				35-54 years  1110
+Philippines	21330
+				male  16057
+						15-24 years  4964
+						35-54 years  4494
+						25-34 years  4223
+						55-74 years  1720
+				female  5273
+						15-24 years  2143
+						35-54 years  1222
+						25-34 years  1135
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+				55-74 years  2168
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						15-24 years  1789
+						35-54 years  8335
+						75+ years  1894
+						25-34 years  2087
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						15-24 years  1113
+						35-54 years  4991
+						75+ years  3918
+						25-34 years  2034
+						55-74 years  6079
+				female  5874
+						35-54 years  1544
+						75+ years  1239
+						55-74 years  2110
+				15-24 years  1505
+				35-54 years  6535
+				75+ years  5157
+				25-34 years  2590
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+						35-54 years  2988
+						25-34 years  1429
+						55-74 years  1893
+				female  1054
+				35-54 years  3415
+				25-34 years  1599
+				55-74 years  2174
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+				5-14 years  1428
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						75+ years  3755
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						15-24 years  1103
+						35-54 years  4340
+						75+ years  1602
+						25-34 years  1223
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+						5-14 years  2002
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						75+ years  3267
+						25-34 years  1538
+						55-74 years  6427
+				female  6763
+						35-54 years  1703
+						75+ years  1607
+						55-74 years  2803
+				15-24 years  1124
+				35-54 years  6947
+				75+ years  4874
+				25-34 years  1963
+				55-74 years  9230
+Singapore	10089
+				male  6296
+						35-54 years  2310
+						25-34 years  1128
+						55-74 years  1492
+				female  3793
+						35-54 years  1239
+				15-24 years  1084
+				35-54 years  3549
+				75+ years  1235
+				25-34 years  1797
+				55-74 years  2341
+Slovakia	13437
+				male  11413
+						15-24 years  1040
+						35-54 years  5239
+						25-34 years  1646
+						55-74 years  2740
+				female  2024
+				15-24 years  1186
+				35-54 years  6085
+				25-34 years  1834
+				55-74 years  3363
+Slovenia	10615
+				male  8313
+						35-54 years  3221
+						55-74 years  2625
+				female  2302
+				35-54 years  3971
+				75+ years  1256
+				25-34 years  1134
+				55-74 years  3484
+South Africa	7321
+				male  5719
+						15-24 years  1465
+						35-54 years  1695
+						25-34 years  1817
+				female  1602
+				15-24 years  2034
+				35-54 years  2102
+				25-34 years  2160
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						15-24 years  1500
+						35-54 years  7215
+						75+ years  4793
+						25-34 years  2606
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						75+ years  1940
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+						35-54 years  2692
+						25-34 years  3134
+						55-74 years  1164
+				15-24 years  14360
+				35-54 years  17439
+				75+ years  2340
+				25-34 years  12685
+				55-74 years  8105
+Suriname	2166
+				male  1598
+Sweden	37795
+				male  26612
+						15-24 years  2387
+						35-54 years  9490
+						75+ years  3532
+						25-34 years  3646
+						55-74 years  7490
+				female  11183
+						15-24 years  1008
+						35-54 years  3995
+						75+ years  1551
+						25-34 years  1337
+						55-74 years  3230
+				15-24 years  3395
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						15-24 years  1564
+						35-54 years  6370
+						75+ years  3122
+						25-34 years  2160
+						55-74 years  5217
+				female  7739
+						35-54 years  2476
+						75+ years  1590
+						55-74 years  2490
+				15-24 years  2015
+				35-54 years  8846
+				75+ years  4712
+				25-34 years  2867
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						75+ years  2395
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						75+ years  1009
+						25-34 years  6006
+						55-74 years  4361
+				15-24 years  23022
+				35-54 years  38392
+				75+ years  3404
+				25-34 years  28135
+				55-74 years  16646
+				5-14 years  1044
+Trinidad and Tobago	4039
+				male  3219
+						35-54 years  1143
+				35-54 years  1358
+				25-34 years  1051
+Turkey	10131
+				male  7562
+						15-24 years  1458
+						35-54 years  2605
+						25-34 years  1613
+						55-74 years  1334
+				female  2569
+				15-24 years  2182
+				35-54 years  3304
+				25-34 years  2080
+				55-74 years  1713
+Turkmenistan	8624
+				male  6528
+						15-24 years  1865
+						35-54 years  2124
+						25-34 years  1779
+				female  2096
+				15-24 years  2758
+				35-54 years  2487
+				25-34 years  2225
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+						5-14 years  1522
+				female  61377
+						15-24 years  4215
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+				5-14 years  1949
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						15-24 years  2771
+						35-54 years  12052
+						75+ years  3983
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+						5-14 years  2447
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+						15-24 years  1425
+						35-54 years  2861
+						75+ years  1472
+						25-34 years  1599
+						55-74 years  2899
+				female  2820
+				15-24 years  1766
+				35-54 years  3764
+				75+ years  1812
+				25-34 years  1957
+				55-74 years  3735
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+						55-74 years  2745
+						5-14 years  1038
+				female  9260
+						15-24 years  3765
+						35-54 years  1797
+						25-34 years  2191
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+				55-74 years  3595
+				5-14 years  1376
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
+Albania	1970
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						15-24 years  4021
+						35-54 years  5181
+						25-34 years  2639
+						55-74 years  4481
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+Armenia	1905
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						75+ years  3496
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						15-24 years  2186
+						35-54 years  5945
+						25-34 years  2872
+						55-74 years  3091
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						15-24 years  3550
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+						35-54 years  4024
+						75+ years  2851
+						55-74 years  4191
+				15-24 years  4367
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Azerbaijan	1656
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						75+ years  1953
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+						35-54 years  3374
+						55-74 years  3259
+				15-24 years  5490
+				35-54 years  25080
+				75+ years  3339
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						15-24 years  3514
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						75+ years  2450
+						25-34 years  1966
+						55-74 years  5682
+				15-24 years  4475
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+						5-14 years  1630
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						75+ years  1602
+						25-34 years  10065
+						55-74 years  7712
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+				5-14 years  3029
+Bulgaria	36388
+				male  26420
+						15-24 years  1892
+						35-54 years  7885
+						75+ years  4961
+						25-34 years  2593
+						55-74 years  8879
+				female  9968
+						35-54 years  2164
+						75+ years  2478
+						55-74 years  3855
+				15-24 years  2543
+				35-54 years  10049
+				75+ years  7439
+				25-34 years  3322
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						15-24 years  3086
+						35-54 years  10583
+						25-34 years  3973
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						75+ years  1773
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+						15-24 years  1589
+						35-54 years  2479
+				15-24 years  7845
+				35-54 years  14477
+				75+ years  1992
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+						35-54 years  2071
+						25-34 years  2267
+				15-24 years  17956
+				35-54 years  12990
+				75+ years  1581
+				25-34 years  12455
+				55-74 years  6232
+				5-14 years  1866
+Costa Rica	6792
+				male  5813
+						35-54 years  2089
+				15-24 years  1577
+				35-54 years  2352
+				25-34 years  1668
+Croatia	18429
+				male  13754
+						35-54 years  4514
+						75+ years  1935
+						55-74 years  4804
+				female  4675
+						55-74 years  1899
+				35-54 years  5744
+				75+ years  2925
+				25-34 years  1693
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						15-24 years  2066
+						35-54 years  9886
+						75+ years  5272
+						25-34 years  4141
+						55-74 years  8289
+				female  11675
+						35-54 years  3684
+						25-34 years  1686
+						55-74 years  3452
+				15-24 years  3522
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						15-24 years  3011
+						35-54 years  13799
+						75+ years  3744
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+						35-54 years  3086
+						75+ years  1748
+						55-74 years  2968
+				15-24 years  3596
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+						35-54 years  4200
+						75+ years  1577
+						55-74 years  3197
+				female  4329
+						35-54 years  1538
+				35-54 years  5738
+				75+ years  2359
+				25-34 years  1604
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+						35-54 years  3644
+						25-34 years  3593
+						55-74 years  1673
+				female  6238
+						15-24 years  3147
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+				55-74 years  1994
+El Salvador	11683
+				male  8338
+						15-24 years  2539
+						35-54 years  2183
+						25-34 years  2290
+				female  3345
+						15-24 years  1788
+				15-24 years  4327
+				35-54 years  2700
+				25-34 years  2939
+Estonia	7034
+				male  5641
+						35-54 years  2295
+						55-74 years  1525
+				35-54 years  2715
+				55-74 years  1973
+Finland	33677
+				male  26017
+						15-24 years  3099
+						35-54 years  10740
+						75+ years  1607
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+						35-54 years  3168
+						55-74 years  2185
+				15-24 years  3822
+				35-54 years  13908
+				75+ years  2124
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						15-24 years  4439
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Georgia	3224
+				male  2530
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						15-24 years  3685
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+						35-54 years  3204
+						25-34 years  1541
+						55-74 years  2812
+				female  2540
+				35-54 years  3994
+				75+ years  1760
+				25-34 years  1910
+				55-74 years  3643
+Guatemala	8149
+				male  6176
+						15-24 years  2054
+						35-54 years  1615
+						25-34 years  1576
+				female  1973
+				15-24 years  3035
+				35-54 years  1944
+				25-34 years  1967
+Guyana	3426
+				male  2608
+Hungary	73891
+				male  55776
+						15-24 years  2944
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						75+ years  4069
+						55-74 years  6319
+				15-24 years  3571
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Ireland	12574
+				male  10123
+						15-24 years  2092
+						35-54 years  3542
+						25-34 years  2318
+						55-74 years  1832
+				female  2451
+				15-24 years  2472
+				35-54 years  4498
+				25-34 years  2788
+				55-74 years  2372
+Israel	11294
+				male  8613
+						35-54 years  2625
+						25-34 years  1503
+						55-74 years  1888
+				female  2681
+				15-24 years  1823
+				35-54 years  3370
+				25-34 years  1885
+				55-74 years  2627
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						15-24 years  1692
+						35-54 years  9801
+						75+ years  6083
+						25-34 years  3248
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+				5-14 years  2130
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						75+ years  1751
+						25-34 years  20595
+						55-74 years  12659
+				female  18160
+						15-24 years  4276
+						35-54 years  5173
+						75+ years  1529
+						25-34 years  3266
+						55-74 years  3463
+				15-24 years  18774
+				35-54 years  37598
+				75+ years  3280
+				25-34 years  23861
+				55-74 years  16122
+				5-14 years  1911
+Kyrgyzstan	13090
+				male  10453
+						15-24 years  2034
+						35-54 years  3821
+						25-34 years  2525
+				female  2637
+				15-24 years  2779
+				35-54 years  4534
+				25-34 years  2970
+				55-74 years  1930
+Latvia	12770
+				male  10296
+						35-54 years  4265
+						25-34 years  1592
+						55-74 years  2859
+				female  2474
+				35-54 years  5033
+				25-34 years  1804
+				55-74 years  3691
+Lithuania	28039
+				male  23028
+						15-24 years  2352
+						35-54 years  10118
+						25-34 years  3560
+						55-74 years  5732
+				female  5011
+						35-54 years  1834
+						55-74 years  1545
+				15-24 years  2684
+				35-54 years  11952
+				75+ years  2020
+				25-34 years  3998
+				55-74 years  7277
+Luxembourg	1958
+Mauritius	3894
+				male  2899
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						75+ years  3732
+						25-34 years  23172
+						55-74 years  10865
+						5-14 years  2470
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+						25-34 years  4054
+				15-24 years  33664
+				35-54 years  29997
+				75+ years  4004
+				25-34 years  27226
+				55-74 years  12318
+				5-14 years  3930
+Netherlands	50833
+				male  33947
+						15-24 years  2943
+						35-54 years  13797
+						75+ years  3095
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						35-54 years  6585
+						75+ years  1851
+						25-34 years  2307
+						55-74 years  4959
+				15-24 years  4071
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+						15-24 years  2683
+						35-54 years  3503
+						25-34 years  2379
+						55-74 years  1778
+				female  3355
+				15-24 years  3458
+				35-54 years  4634
+				25-34 years  3024
+				55-74 years  2327
+Nicaragua	2013
+				male  1531
+Norway	16992
+				male  12307
+						15-24 years  1895
+						35-54 years  4269
+						25-34 years  2258
+						55-74 years  2823
+				female  4685
+						35-54 years  1783
+				15-24 years  2416
+				35-54 years  6052
+				25-34 years  2984
+				55-74 years  4091
+Panama	3483
+				male  2971
+Paraguay	4783
+				male  3326
+				15-24 years  1790
+Philippines	21330
+				male  16057
+						15-24 years  4964
+						35-54 years  4494
+						25-34 years  4223
+						55-74 years  1720
+				female  5273
+						15-24 years  2143
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+				55-74 years  2168
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						15-24 years  1789
+						35-54 years  8335
+						75+ years  1894
+						25-34 years  2087
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						35-54 years  4991
+						75+ years  3918
+						25-34 years  2034
+						55-74 years  6079
+				female  5874
+						35-54 years  1544
+						55-74 years  2110
+				15-24 years  1505
+				35-54 years  6535
+				75+ years  5157
+				25-34 years  2590
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+						35-54 years  2988
+						55-74 years  1893
+				35-54 years  3415
+				25-34 years  1599
+				55-74 years  2174
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						75+ years  3755
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						35-54 years  4340
+						75+ years  1602
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+						5-14 years  2002
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						75+ years  3267
+						25-34 years  1538
+						55-74 years  6427
+				female  6763
+						35-54 years  1703
+						75+ years  1607
+						55-74 years  2803
+				35-54 years  6947
+				75+ years  4874
+				25-34 years  1963
+				55-74 years  9230
+Singapore	10089
+				male  6296
+						35-54 years  2310
+				female  3793
+				35-54 years  3549
+				25-34 years  1797
+				55-74 years  2341
+Slovakia	13437
+				male  11413
+						35-54 years  5239
+						25-34 years  1646
+						55-74 years  2740
+				female  2024
+				35-54 years  6085
+				25-34 years  1834
+				55-74 years  3363
+Slovenia	10615
+				male  8313
+						35-54 years  3221
+						55-74 years  2625
+				female  2302
+				35-54 years  3971
+				55-74 years  3484
+South Africa	7321
+				male  5719
+						35-54 years  1695
+						25-34 years  1817
+				female  1602
+				15-24 years  2034
+				35-54 years  2102
+				25-34 years  2160
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						35-54 years  7215
+						75+ years  4793
+						25-34 years  2606
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						75+ years  1940
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+						35-54 years  2692
+						25-34 years  3134
+				15-24 years  14360
+				35-54 years  17439
+				75+ years  2340
+				25-34 years  12685
+				55-74 years  8105
+Suriname	2166
+				male  1598
+Sweden	37795
+				male  26612
+						15-24 years  2387
+						35-54 years  9490
+						75+ years  3532
+						25-34 years  3646
+						55-74 years  7490
+				female  11183
+						35-54 years  3995
+						75+ years  1551
+						55-74 years  3230
+				15-24 years  3395
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						15-24 years  1564
+						35-54 years  6370
+						75+ years  3122
+						25-34 years  2160
+						55-74 years  5217
+				female  7739
+						35-54 years  2476
+						75+ years  1590
+						55-74 years  2490
+				15-24 years  2015
+				35-54 years  8846
+				75+ years  4712
+				25-34 years  2867
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						75+ years  2395
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						25-34 years  6006
+						55-74 years  4361
+				15-24 years  23022
+				35-54 years  38392
+				75+ years  3404
+				25-34 years  28135
+				55-74 years  16646
+Trinidad and Tobago	4039
+				male  3219
+Turkey	10131
+				male  7562
+						35-54 years  2605
+						25-34 years  1613
+				female  2569
+				15-24 years  2182
+				35-54 years  3304
+				25-34 years  2080
+				55-74 years  1713
+Turkmenistan	8624
+				male  6528
+						15-24 years  1865
+						35-54 years  2124
+						25-34 years  1779
+				female  2096
+				15-24 years  2758
+				35-54 years  2487
+				25-34 years  2225
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+						5-14 years  1522
+				female  61377
+						15-24 years  4215
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+				5-14 years  1949
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						15-24 years  2771
+						35-54 years  12052
+						75+ years  3983
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+						5-14 years  2447
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+						35-54 years  2861
+						25-34 years  1599
+						55-74 years  2899
+				female  2820
+				15-24 years  1766
+				35-54 years  3764
+				75+ years  1812
+				25-34 years  1957
+				55-74 years  3735
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+						55-74 years  2745
+				female  9260
+						15-24 years  3765
+						35-54 years  1797
+						25-34 years  2191
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+				55-74 years  3595
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						15-24 years  4021
+						35-54 years  5181
+						25-34 years  2639
+						55-74 years  4481
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						75+ years  3496
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						15-24 years  2186
+						35-54 years  5945
+						25-34 years  2872
+						55-74 years  3091
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						15-24 years  3550
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+						35-54 years  4024
+						75+ years  2851
+						55-74 years  4191
+				15-24 years  4367
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+						35-54 years  3374
+						55-74 years  3259
+				15-24 years  5490
+				35-54 years  25080
+				75+ years  3339
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						15-24 years  3514
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						75+ years  2450
+						55-74 years  5682
+				15-24 years  4475
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						25-34 years  10065
+						55-74 years  7712
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+				5-14 years  3029
+Bulgaria	36388
+				male  26420
+						35-54 years  7885
+						75+ years  4961
+						25-34 years  2593
+						55-74 years  8879
+				female  9968
+						35-54 years  2164
+						75+ years  2478
+						55-74 years  3855
+				15-24 years  2543
+				35-54 years  10049
+				75+ years  7439
+				25-34 years  3322
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						15-24 years  3086
+						35-54 years  10583
+						25-34 years  3973
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+						35-54 years  2479
+				15-24 years  7845
+				35-54 years  14477
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+						35-54 years  2071
+						25-34 years  2267
+				15-24 years  17956
+				35-54 years  12990
+				25-34 years  12455
+				55-74 years  6232
+Costa Rica	6792
+				male  5813
+						35-54 years  2089
+				35-54 years  2352
+Croatia	18429
+				male  13754
+						35-54 years  4514
+						55-74 years  4804
+				female  4675
+				35-54 years  5744
+				75+ years  2925
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						15-24 years  2066
+						35-54 years  9886
+						75+ years  5272
+						25-34 years  4141
+						55-74 years  8289
+				female  11675
+						35-54 years  3684
+						55-74 years  3452
+				15-24 years  3522
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						15-24 years  3011
+						35-54 years  13799
+						75+ years  3744
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+						35-54 years  3086
+						55-74 years  2968
+				15-24 years  3596
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+						35-54 years  4200
+						55-74 years  3197
+				female  4329
+				35-54 years  5738
+				75+ years  2359
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+						35-54 years  3644
+						25-34 years  3593
+				female  6238
+						15-24 years  3147
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+El Salvador	11683
+				male  8338
+						15-24 years  2539
+						35-54 years  2183
+						25-34 years  2290
+				female  3345
+				15-24 years  4327
+				35-54 years  2700
+				25-34 years  2939
+Estonia	7034
+				male  5641
+						35-54 years  2295
+				35-54 years  2715
+Finland	33677
+				male  26017
+						15-24 years  3099
+						35-54 years  10740
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+						35-54 years  3168
+						55-74 years  2185
+				15-24 years  3822
+				35-54 years  13908
+				75+ years  2124
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						15-24 years  4439
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Georgia	3224
+				male  2530
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						15-24 years  3685
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+						35-54 years  3204
+						55-74 years  2812
+				female  2540
+				35-54 years  3994
+				55-74 years  3643
+Guatemala	8149
+				male  6176
+						15-24 years  2054
+				15-24 years  3035
+Guyana	3426
+				male  2608
+Hungary	73891
+				male  55776
+						15-24 years  2944
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						75+ years  4069
+						55-74 years  6319
+				15-24 years  3571
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Ireland	12574
+				male  10123
+						15-24 years  2092
+						35-54 years  3542
+						25-34 years  2318
+				female  2451
+				15-24 years  2472
+				35-54 years  4498
+				25-34 years  2788
+				55-74 years  2372
+Israel	11294
+				male  8613
+						35-54 years  2625
+				female  2681
+				35-54 years  3370
+				55-74 years  2627
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						35-54 years  9801
+						75+ years  6083
+						25-34 years  3248
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+				5-14 years  2130
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						25-34 years  20595
+						55-74 years  12659
+				female  18160
+						15-24 years  4276
+						35-54 years  5173
+						25-34 years  3266
+						55-74 years  3463
+				15-24 years  18774
+				35-54 years  37598
+				75+ years  3280
+				25-34 years  23861
+				55-74 years  16122
+Kyrgyzstan	13090
+				male  10453
+						15-24 years  2034
+						35-54 years  3821
+						25-34 years  2525
+				female  2637
+				15-24 years  2779
+				35-54 years  4534
+				25-34 years  2970
+Latvia	12770
+				male  10296
+						35-54 years  4265
+						55-74 years  2859
+				female  2474
+				35-54 years  5033
+				55-74 years  3691
+Lithuania	28039
+				male  23028
+						15-24 years  2352
+						35-54 years  10118
+						25-34 years  3560
+						55-74 years  5732
+				female  5011
+				15-24 years  2684
+				35-54 years  11952
+				75+ years  2020
+				25-34 years  3998
+				55-74 years  7277
+Mauritius	3894
+				male  2899
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						75+ years  3732
+						25-34 years  23172
+						55-74 years  10865
+						5-14 years  2470
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+						25-34 years  4054
+				15-24 years  33664
+				35-54 years  29997
+				75+ years  4004
+				25-34 years  27226
+				55-74 years  12318
+				5-14 years  3930
+Netherlands	50833
+				male  33947
+						15-24 years  2943
+						35-54 years  13797
+						75+ years  3095
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						35-54 years  6585
+						25-34 years  2307
+						55-74 years  4959
+				15-24 years  4071
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+						15-24 years  2683
+						35-54 years  3503
+						25-34 years  2379
+				female  3355
+				15-24 years  3458
+				35-54 years  4634
+				25-34 years  3024
+				55-74 years  2327
+Nicaragua	2013
+Norway	16992
+				male  12307
+						35-54 years  4269
+						25-34 years  2258
+						55-74 years  2823
+				female  4685
+				15-24 years  2416
+				35-54 years  6052
+				25-34 years  2984
+				55-74 years  4091
+Panama	3483
+				male  2971
+Paraguay	4783
+				male  3326
+Philippines	21330
+				male  16057
+						15-24 years  4964
+						35-54 years  4494
+						25-34 years  4223
+				female  5273
+						15-24 years  2143
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+				55-74 years  2168
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						35-54 years  8335
+						25-34 years  2087
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						35-54 years  4991
+						75+ years  3918
+						25-34 years  2034
+						55-74 years  6079
+				female  5874
+						55-74 years  2110
+				35-54 years  6535
+				75+ years  5157
+				25-34 years  2590
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+						35-54 years  2988
+				35-54 years  3415
+				55-74 years  2174
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						75+ years  3755
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						35-54 years  4340
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+						5-14 years  2002
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						75+ years  3267
+						55-74 years  6427
+				female  6763
+						55-74 years  2803
+				35-54 years  6947
+				75+ years  4874
+				55-74 years  9230
+Singapore	10089
+				male  6296
+						35-54 years  2310
+				female  3793
+				35-54 years  3549
+				55-74 years  2341
+Slovakia	13437
+				male  11413
+						35-54 years  5239
+						55-74 years  2740
+				female  2024
+				35-54 years  6085
+				55-74 years  3363
+Slovenia	10615
+				male  8313
+						35-54 years  3221
+						55-74 years  2625
+				female  2302
+				35-54 years  3971
+				55-74 years  3484
+South Africa	7321
+				male  5719
+				15-24 years  2034
+				35-54 years  2102
+				25-34 years  2160
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						35-54 years  7215
+						75+ years  4793
+						25-34 years  2606
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+						35-54 years  2692
+						25-34 years  3134
+				15-24 years  14360
+				35-54 years  17439
+				75+ years  2340
+				25-34 years  12685
+				55-74 years  8105
+Suriname	2166
+Sweden	37795
+				male  26612
+						15-24 years  2387
+						35-54 years  9490
+						75+ years  3532
+						25-34 years  3646
+						55-74 years  7490
+				female  11183
+						35-54 years  3995
+						55-74 years  3230
+				15-24 years  3395
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						35-54 years  6370
+						75+ years  3122
+						25-34 years  2160
+						55-74 years  5217
+				female  7739
+						35-54 years  2476
+						55-74 years  2490
+				15-24 years  2015
+				35-54 years  8846
+				75+ years  4712
+				25-34 years  2867
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						75+ years  2395
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						25-34 years  6006
+						55-74 years  4361
+				15-24 years  23022
+				35-54 years  38392
+				75+ years  3404
+				25-34 years  28135
+				55-74 years  16646
+Trinidad and Tobago	4039
+				male  3219
+Turkey	10131
+				male  7562
+						35-54 years  2605
+				female  2569
+				15-24 years  2182
+				35-54 years  3304
+				25-34 years  2080
+Turkmenistan	8624
+				male  6528
+						35-54 years  2124
+				female  2096
+				15-24 years  2758
+				35-54 years  2487
+				25-34 years  2225
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+				female  61377
+						15-24 years  4215
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						15-24 years  2771
+						35-54 years  12052
+						75+ years  3983
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+						5-14 years  2447
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+						35-54 years  2861
+						55-74 years  2899
+				female  2820
+				35-54 years  3764
+				55-74 years  3735
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+						55-74 years  2745
+				female  9260
+						15-24 years  3765
+						25-34 years  2191
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+				55-74 years  3595
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						15-24 years  4021
+						35-54 years  5181
+						25-34 years  2639
+						55-74 years  4481
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						75+ years  3496
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						35-54 years  5945
+						25-34 years  2872
+						55-74 years  3091
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						15-24 years  3550
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+						35-54 years  4024
+						75+ years  2851
+						55-74 years  4191
+				15-24 years  4367
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+						35-54 years  3374
+						55-74 years  3259
+				15-24 years  5490
+				35-54 years  25080
+				75+ years  3339
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						15-24 years  3514
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						55-74 years  5682
+				15-24 years  4475
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						25-34 years  10065
+						55-74 years  7712
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+				5-14 years  3029
+Bulgaria	36388
+				male  26420
+						35-54 years  7885
+						75+ years  4961
+						25-34 years  2593
+						55-74 years  8879
+				female  9968
+						55-74 years  3855
+				15-24 years  2543
+				35-54 years  10049
+				75+ years  7439
+				25-34 years  3322
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						15-24 years  3086
+						35-54 years  10583
+						25-34 years  3973
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+				15-24 years  7845
+				35-54 years  14477
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+				15-24 years  17956
+				35-54 years  12990
+				25-34 years  12455
+				55-74 years  6232
+Costa Rica	6792
+				male  5813
+Croatia	18429
+				male  13754
+						35-54 years  4514
+						55-74 years  4804
+				female  4675
+				35-54 years  5744
+				75+ years  2925
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						35-54 years  9886
+						75+ years  5272
+						25-34 years  4141
+						55-74 years  8289
+				female  11675
+						35-54 years  3684
+						55-74 years  3452
+				15-24 years  3522
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						15-24 years  3011
+						35-54 years  13799
+						75+ years  3744
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+						35-54 years  3086
+						55-74 years  2968
+				15-24 years  3596
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+						35-54 years  4200
+						55-74 years  3197
+				female  4329
+				35-54 years  5738
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+						35-54 years  3644
+						25-34 years  3593
+				female  6238
+						15-24 years  3147
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+El Salvador	11683
+				male  8338
+						15-24 years  2539
+				female  3345
+				15-24 years  4327
+				35-54 years  2700
+				25-34 years  2939
+Estonia	7034
+				male  5641
+				35-54 years  2715
+Finland	33677
+				male  26017
+						15-24 years  3099
+						35-54 years  10740
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+						35-54 years  3168
+				15-24 years  3822
+				35-54 years  13908
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						15-24 years  4439
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Georgia	3224
+				male  2530
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						15-24 years  3685
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+						35-54 years  3204
+						55-74 years  2812
+				female  2540
+				35-54 years  3994
+				55-74 years  3643
+Guatemala	8149
+				male  6176
+				15-24 years  3035
+Guyana	3426
+				male  2608
+Hungary	73891
+				male  55776
+						15-24 years  2944
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						75+ years  4069
+						55-74 years  6319
+				15-24 years  3571
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Ireland	12574
+				male  10123
+						35-54 years  3542
+				35-54 years  4498
+				25-34 years  2788
+Israel	11294
+				male  8613
+						35-54 years  2625
+				female  2681
+				35-54 years  3370
+				55-74 years  2627
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						35-54 years  9801
+						75+ years  6083
+						25-34 years  3248
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						25-34 years  20595
+						55-74 years  12659
+				female  18160
+						15-24 years  4276
+						35-54 years  5173
+						25-34 years  3266
+						55-74 years  3463
+				15-24 years  18774
+				35-54 years  37598
+				75+ years  3280
+				25-34 years  23861
+				55-74 years  16122
+Kyrgyzstan	13090
+				male  10453
+						35-54 years  3821
+						25-34 years  2525
+				female  2637
+				15-24 years  2779
+				35-54 years  4534
+				25-34 years  2970
+Latvia	12770
+				male  10296
+						35-54 years  4265
+						55-74 years  2859
+				35-54 years  5033
+				55-74 years  3691
+Lithuania	28039
+				male  23028
+						35-54 years  10118
+						25-34 years  3560
+						55-74 years  5732
+				female  5011
+				15-24 years  2684
+				35-54 years  11952
+				25-34 years  3998
+				55-74 years  7277
+Mauritius	3894
+				male  2899
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						75+ years  3732
+						25-34 years  23172
+						55-74 years  10865
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+						25-34 years  4054
+				15-24 years  33664
+				35-54 years  29997
+				75+ years  4004
+				25-34 years  27226
+				55-74 years  12318
+				5-14 years  3930
+Netherlands	50833
+				male  33947
+						15-24 years  2943
+						35-54 years  13797
+						75+ years  3095
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						35-54 years  6585
+						55-74 years  4959
+				15-24 years  4071
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+						15-24 years  2683
+						35-54 years  3503
+				female  3355
+				15-24 years  3458
+				35-54 years  4634
+				25-34 years  3024
+Norway	16992
+				male  12307
+						35-54 years  4269
+						55-74 years  2823
+				female  4685
+				35-54 years  6052
+				25-34 years  2984
+				55-74 years  4091
+Panama	3483
+				male  2971
+Paraguay	4783
+				male  3326
+Philippines	21330
+				male  16057
+						15-24 years  4964
+						35-54 years  4494
+						25-34 years  4223
+				female  5273
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						35-54 years  8335
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						35-54 years  4991
+						75+ years  3918
+						55-74 years  6079
+				female  5874
+				35-54 years  6535
+				75+ years  5157
+				25-34 years  2590
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+						35-54 years  2988
+				35-54 years  3415
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						75+ years  3755
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						35-54 years  4340
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						75+ years  3267
+						55-74 years  6427
+				female  6763
+						55-74 years  2803
+				35-54 years  6947
+				75+ years  4874
+				55-74 years  9230
+Singapore	10089
+				male  6296
+				female  3793
+				35-54 years  3549
+Slovakia	13437
+				male  11413
+						35-54 years  5239
+						55-74 years  2740
+				35-54 years  6085
+				55-74 years  3363
+Slovenia	10615
+				male  8313
+						35-54 years  3221
+						55-74 years  2625
+				35-54 years  3971
+				55-74 years  3484
+South Africa	7321
+				male  5719
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						35-54 years  7215
+						75+ years  4793
+						25-34 years  2606
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+						35-54 years  2692
+						25-34 years  3134
+				15-24 years  14360
+				35-54 years  17439
+				25-34 years  12685
+				55-74 years  8105
+Sweden	37795
+				male  26612
+						35-54 years  9490
+						75+ years  3532
+						25-34 years  3646
+						55-74 years  7490
+				female  11183
+						35-54 years  3995
+						55-74 years  3230
+				15-24 years  3395
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						35-54 years  6370
+						75+ years  3122
+						55-74 years  5217
+				female  7739
+				35-54 years  8846
+				75+ years  4712
+				25-34 years  2867
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						25-34 years  6006
+						55-74 years  4361
+				15-24 years  23022
+				35-54 years  38392
+				75+ years  3404
+				25-34 years  28135
+				55-74 years  16646
+Trinidad and Tobago	4039
+				male  3219
+Turkey	10131
+				male  7562
+						35-54 years  2605
+				female  2569
+				35-54 years  3304
+Turkmenistan	8624
+				male  6528
+				15-24 years  2758
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+				female  61377
+						15-24 years  4215
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						15-24 years  2771
+						35-54 years  12052
+						75+ years  3983
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+						35-54 years  2861
+						55-74 years  2899
+				female  2820
+				35-54 years  3764
+				55-74 years  3735
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+						55-74 years  2745
+				female  9260
+						15-24 years  3765
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+				55-74 years  3595
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						15-24 years  4021
+						35-54 years  5181
+						55-74 years  4481
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						75+ years  3496
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						35-54 years  5945
+						55-74 years  3091
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						15-24 years  3550
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+						35-54 years  4024
+						55-74 years  4191
+				15-24 years  4367
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+						35-54 years  3374
+						55-74 years  3259
+				15-24 years  5490
+				35-54 years  25080
+				75+ years  3339
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						15-24 years  3514
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						55-74 years  5682
+				15-24 years  4475
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						25-34 years  10065
+						55-74 years  7712
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+				5-14 years  3029
+Bulgaria	36388
+				male  26420
+						35-54 years  7885
+						75+ years  4961
+						55-74 years  8879
+				female  9968
+						55-74 years  3855
+				35-54 years  10049
+				75+ years  7439
+				25-34 years  3322
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						15-24 years  3086
+						35-54 years  10583
+						25-34 years  3973
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+				15-24 years  7845
+				35-54 years  14477
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+				15-24 years  17956
+				35-54 years  12990
+				25-34 years  12455
+				55-74 years  6232
+Costa Rica	6792
+				male  5813
+Croatia	18429
+				male  13754
+						35-54 years  4514
+						55-74 years  4804
+				female  4675
+				35-54 years  5744
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						35-54 years  9886
+						75+ years  5272
+						25-34 years  4141
+						55-74 years  8289
+				female  11675
+						35-54 years  3684
+						55-74 years  3452
+				15-24 years  3522
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						15-24 years  3011
+						35-54 years  13799
+						75+ years  3744
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+						35-54 years  3086
+				15-24 years  3596
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+						35-54 years  4200
+						55-74 years  3197
+				female  4329
+				35-54 years  5738
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+						35-54 years  3644
+						25-34 years  3593
+				female  6238
+						15-24 years  3147
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+El Salvador	11683
+				male  8338
+				female  3345
+				15-24 years  4327
+Estonia	7034
+				male  5641
+Finland	33677
+				male  26017
+						15-24 years  3099
+						35-54 years  10740
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+						35-54 years  3168
+				15-24 years  3822
+				35-54 years  13908
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						15-24 years  4439
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Georgia	3224
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						15-24 years  3685
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+						35-54 years  3204
+				35-54 years  3994
+				55-74 years  3643
+Guatemala	8149
+				male  6176
+				15-24 years  3035
+Guyana	3426
+Hungary	73891
+				male  55776
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						75+ years  4069
+						55-74 years  6319
+				15-24 years  3571
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Ireland	12574
+				male  10123
+						35-54 years  3542
+				35-54 years  4498
+Israel	11294
+				male  8613
+				35-54 years  3370
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						35-54 years  9801
+						75+ years  6083
+						25-34 years  3248
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						25-34 years  20595
+						55-74 years  12659
+				female  18160
+						15-24 years  4276
+						35-54 years  5173
+						25-34 years  3266
+						55-74 years  3463
+				15-24 years  18774
+				35-54 years  37598
+				75+ years  3280
+				25-34 years  23861
+				55-74 years  16122
+Kyrgyzstan	13090
+				male  10453
+						35-54 years  3821
+				35-54 years  4534
+Latvia	12770
+				male  10296
+						35-54 years  4265
+				35-54 years  5033
+				55-74 years  3691
+Lithuania	28039
+				male  23028
+						35-54 years  10118
+						25-34 years  3560
+						55-74 years  5732
+				female  5011
+				35-54 years  11952
+				25-34 years  3998
+				55-74 years  7277
+Mauritius	3894
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						75+ years  3732
+						25-34 years  23172
+						55-74 years  10865
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+						25-34 years  4054
+				15-24 years  33664
+				35-54 years  29997
+				75+ years  4004
+				25-34 years  27226
+				55-74 years  12318
+				5-14 years  3930
+Netherlands	50833
+				male  33947
+						35-54 years  13797
+						75+ years  3095
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						35-54 years  6585
+						55-74 years  4959
+				15-24 years  4071
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+						35-54 years  3503
+				female  3355
+				15-24 years  3458
+				35-54 years  4634
+				25-34 years  3024
+Norway	16992
+				male  12307
+						35-54 years  4269
+				female  4685
+				35-54 years  6052
+				55-74 years  4091
+Panama	3483
+Paraguay	4783
+				male  3326
+Philippines	21330
+				male  16057
+						15-24 years  4964
+						35-54 years  4494
+						25-34 years  4223
+				female  5273
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						35-54 years  8335
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						35-54 years  4991
+						75+ years  3918
+						55-74 years  6079
+				female  5874
+				35-54 years  6535
+				75+ years  5157
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+				35-54 years  3415
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						75+ years  3755
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						35-54 years  4340
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						75+ years  3267
+						55-74 years  6427
+				female  6763
+				35-54 years  6947
+				75+ years  4874
+				55-74 years  9230
+Singapore	10089
+				male  6296
+				female  3793
+				35-54 years  3549
+Slovakia	13437
+				male  11413
+						35-54 years  5239
+				35-54 years  6085
+				55-74 years  3363
+Slovenia	10615
+				male  8313
+						35-54 years  3221
+				35-54 years  3971
+				55-74 years  3484
+South Africa	7321
+				male  5719
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						35-54 years  7215
+						75+ years  4793
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+						25-34 years  3134
+				15-24 years  14360
+				35-54 years  17439
+				25-34 years  12685
+				55-74 years  8105
+Sweden	37795
+				male  26612
+						35-54 years  9490
+						75+ years  3532
+						25-34 years  3646
+						55-74 years  7490
+				female  11183
+						35-54 years  3995
+						55-74 years  3230
+				15-24 years  3395
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						35-54 years  6370
+						75+ years  3122
+						55-74 years  5217
+				female  7739
+				35-54 years  8846
+				75+ years  4712
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						25-34 years  6006
+						55-74 years  4361
+				15-24 years  23022
+				35-54 years  38392
+				75+ years  3404
+				25-34 years  28135
+				55-74 years  16646
+Trinidad and Tobago	4039
+				male  3219
+Turkey	10131
+				male  7562
+				35-54 years  3304
+Turkmenistan	8624
+				male  6528
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+				female  61377
+						15-24 years  4215
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						35-54 years  12052
+						75+ years  3983
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+				35-54 years  3764
+				55-74 years  3735
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+				female  9260
+						15-24 years  3765
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+				55-74 years  3595
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						15-24 years  4021
+						35-54 years  5181
+						55-74 years  4481
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						35-54 years  5945
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						15-24 years  3550
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+						35-54 years  4024
+						55-74 years  4191
+				15-24 years  4367
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+				15-24 years  5490
+				35-54 years  25080
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						15-24 years  3514
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						55-74 years  5682
+				15-24 years  4475
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						25-34 years  10065
+						55-74 years  7712
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+Bulgaria	36388
+				male  26420
+						35-54 years  7885
+						75+ years  4961
+						55-74 years  8879
+				female  9968
+						55-74 years  3855
+				35-54 years  10049
+				75+ years  7439
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						35-54 years  10583
+						25-34 years  3973
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+				15-24 years  7845
+				35-54 years  14477
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+				15-24 years  17956
+				35-54 years  12990
+				25-34 years  12455
+				55-74 years  6232
+Costa Rica	6792
+				male  5813
+Croatia	18429
+				male  13754
+						35-54 years  4514
+						55-74 years  4804
+				female  4675
+				35-54 years  5744
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						35-54 years  9886
+						75+ years  5272
+						25-34 years  4141
+						55-74 years  8289
+				female  11675
+						35-54 years  3684
+				15-24 years  3522
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						35-54 years  13799
+						75+ years  3744
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+				15-24 years  3596
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+						35-54 years  4200
+				female  4329
+				35-54 years  5738
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+						35-54 years  3644
+						25-34 years  3593
+				female  6238
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+El Salvador	11683
+				male  8338
+				15-24 years  4327
+Estonia	7034
+				male  5641
+Finland	33677
+				male  26017
+						35-54 years  10740
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+				15-24 years  3822
+				35-54 years  13908
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						15-24 years  4439
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						15-24 years  3685
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+				35-54 years  3994
+				55-74 years  3643
+Guatemala	8149
+				male  6176
+Hungary	73891
+				male  55776
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						75+ years  4069
+						55-74 years  6319
+				15-24 years  3571
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Ireland	12574
+				male  10123
+						35-54 years  3542
+				35-54 years  4498
+Israel	11294
+				male  8613
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						35-54 years  9801
+						75+ years  6083
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						25-34 years  20595
+						55-74 years  12659
+				female  18160
+						15-24 years  4276
+						35-54 years  5173
+				15-24 years  18774
+				35-54 years  37598
+				25-34 years  23861
+				55-74 years  16122
+Kyrgyzstan	13090
+				male  10453
+						35-54 years  3821
+				35-54 years  4534
+Latvia	12770
+				male  10296
+						35-54 years  4265
+				35-54 years  5033
+				55-74 years  3691
+Lithuania	28039
+				male  23028
+						35-54 years  10118
+						25-34 years  3560
+						55-74 years  5732
+				female  5011
+				35-54 years  11952
+				25-34 years  3998
+				55-74 years  7277
+Mauritius	3894
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						75+ years  3732
+						25-34 years  23172
+						55-74 years  10865
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+						25-34 years  4054
+				15-24 years  33664
+				35-54 years  29997
+				75+ years  4004
+				25-34 years  27226
+				55-74 years  12318
+				5-14 years  3930
+Netherlands	50833
+				male  33947
+						35-54 years  13797
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						35-54 years  6585
+						55-74 years  4959
+				15-24 years  4071
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+						35-54 years  3503
+				35-54 years  4634
+Norway	16992
+				male  12307
+						35-54 years  4269
+				female  4685
+				35-54 years  6052
+				55-74 years  4091
+Paraguay	4783
+Philippines	21330
+				male  16057
+						15-24 years  4964
+						35-54 years  4494
+						25-34 years  4223
+				female  5273
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						35-54 years  8335
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						35-54 years  4991
+						75+ years  3918
+						55-74 years  6079
+				female  5874
+				35-54 years  6535
+				75+ years  5157
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						75+ years  3755
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						35-54 years  4340
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						55-74 years  6427
+				female  6763
+				35-54 years  6947
+				75+ years  4874
+				55-74 years  9230
+Singapore	10089
+				male  6296
+				female  3793
+				35-54 years  3549
+Slovakia	13437
+				male  11413
+						35-54 years  5239
+				35-54 years  6085
+Slovenia	10615
+				male  8313
+				35-54 years  3971
+South Africa	7321
+				male  5719
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						35-54 years  7215
+						75+ years  4793
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+				15-24 years  14360
+				35-54 years  17439
+				25-34 years  12685
+				55-74 years  8105
+Sweden	37795
+				male  26612
+						35-54 years  9490
+						75+ years  3532
+						25-34 years  3646
+						55-74 years  7490
+				female  11183
+						35-54 years  3995
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						35-54 years  6370
+						55-74 years  5217
+				female  7739
+				35-54 years  8846
+				75+ years  4712
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						25-34 years  6006
+						55-74 years  4361
+				15-24 years  23022
+				35-54 years  38392
+				25-34 years  28135
+				55-74 years  16646
+Trinidad and Tobago	4039
+Turkey	10131
+				male  7562
+Turkmenistan	8624
+				male  6528
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+				female  61377
+						15-24 years  4215
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						35-54 years  12052
+						75+ years  3983
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+				35-54 years  3764
+				55-74 years  3735
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+				female  9260
+						15-24 years  3765
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+				55-74 years  3595
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						15-24 years  4021
+						35-54 years  5181
+						55-74 years  4481
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						35-54 years  5945
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+						35-54 years  4024
+						55-74 years  4191
+				15-24 years  4367
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+				15-24 years  5490
+				35-54 years  25080
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						55-74 years  5682
+				15-24 years  4475
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						25-34 years  10065
+						55-74 years  7712
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+Bulgaria	36388
+				male  26420
+						35-54 years  7885
+						75+ years  4961
+						55-74 years  8879
+				female  9968
+				35-54 years  10049
+				75+ years  7439
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						35-54 years  10583
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+				15-24 years  7845
+				35-54 years  14477
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+				15-24 years  17956
+				35-54 years  12990
+				25-34 years  12455
+				55-74 years  6232
+Costa Rica	6792
+				male  5813
+Croatia	18429
+				male  13754
+						35-54 years  4514
+						55-74 years  4804
+				female  4675
+				35-54 years  5744
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						35-54 years  9886
+						75+ years  5272
+						25-34 years  4141
+						55-74 years  8289
+				female  11675
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						35-54 years  13799
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+						35-54 years  4200
+				female  4329
+				35-54 years  5738
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+				female  6238
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+El Salvador	11683
+				male  8338
+				15-24 years  4327
+Estonia	7034
+				male  5641
+Finland	33677
+				male  26017
+						35-54 years  10740
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+				35-54 years  13908
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						15-24 years  4439
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+Guatemala	8149
+				male  6176
+Hungary	73891
+				male  55776
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						75+ years  4069
+						55-74 years  6319
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Ireland	12574
+				male  10123
+				35-54 years  4498
+Israel	11294
+				male  8613
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						35-54 years  9801
+						75+ years  6083
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						25-34 years  20595
+						55-74 years  12659
+				female  18160
+						15-24 years  4276
+						35-54 years  5173
+				15-24 years  18774
+				35-54 years  37598
+				25-34 years  23861
+				55-74 years  16122
+Kyrgyzstan	13090
+				male  10453
+				35-54 years  4534
+Latvia	12770
+				male  10296
+						35-54 years  4265
+				35-54 years  5033
+Lithuania	28039
+				male  23028
+						35-54 years  10118
+						55-74 years  5732
+				female  5011
+				35-54 years  11952
+				55-74 years  7277
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						25-34 years  23172
+						55-74 years  10865
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+						25-34 years  4054
+				15-24 years  33664
+				35-54 years  29997
+				75+ years  4004
+				25-34 years  27226
+				55-74 years  12318
+Netherlands	50833
+				male  33947
+						35-54 years  13797
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						35-54 years  6585
+						55-74 years  4959
+				15-24 years  4071
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+				35-54 years  4634
+Norway	16992
+				male  12307
+						35-54 years  4269
+				female  4685
+				35-54 years  6052
+				55-74 years  4091
+Paraguay	4783
+Philippines	21330
+				male  16057
+						15-24 years  4964
+						35-54 years  4494
+						25-34 years  4223
+				female  5273
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						35-54 years  8335
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						35-54 years  4991
+						55-74 years  6079
+				female  5874
+				35-54 years  6535
+				75+ years  5157
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						35-54 years  4340
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						55-74 years  6427
+				female  6763
+				35-54 years  6947
+				75+ years  4874
+				55-74 years  9230
+Singapore	10089
+				male  6296
+Slovakia	13437
+				male  11413
+						35-54 years  5239
+				35-54 years  6085
+Slovenia	10615
+				male  8313
+South Africa	7321
+				male  5719
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						35-54 years  7215
+						75+ years  4793
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+				15-24 years  14360
+				35-54 years  17439
+				25-34 years  12685
+				55-74 years  8105
+Sweden	37795
+				male  26612
+						35-54 years  9490
+						55-74 years  7490
+				female  11183
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						35-54 years  6370
+						55-74 years  5217
+				female  7739
+				35-54 years  8846
+				75+ years  4712
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						25-34 years  6006
+						55-74 years  4361
+				15-24 years  23022
+				35-54 years  38392
+				25-34 years  28135
+				55-74 years  16646
+Trinidad and Tobago	4039
+Turkey	10131
+				male  7562
+Turkmenistan	8624
+				male  6528
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+				female  61377
+						15-24 years  4215
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						35-54 years  12052
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+				female  9260
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
+Argentina	82219
+				male  63893
+						15-24 years  13634
+						35-54 years  16600
+						75+ years  6570
+						25-34 years  10851
+						55-74 years  15381
+				female  18326
+						35-54 years  5181
+				15-24 years  17655
+				35-54 years  21781
+				75+ years  7979
+				25-34 years  13490
+				55-74 years  19862
+Australia	70111
+				male  54785
+						15-24 years  8900
+						35-54 years  20205
+						25-34 years  12162
+						55-74 years  9820
+				female  15326
+						35-54 years  5945
+				15-24 years  11086
+				35-54 years  26150
+				75+ years  4610
+				25-34 years  15034
+				55-74 years  12911
+Austria	50073
+				male  36878
+						35-54 years  12274
+						75+ years  5863
+						25-34 years  5007
+						55-74 years  10087
+				female  13195
+				35-54 years  16298
+				75+ years  8714
+				25-34 years  6273
+				55-74 years  14278
+Belarus	59892
+				male  49890
+						15-24 years  4743
+						35-54 years  21706
+						25-34 years  9143
+						55-74 years  12079
+				female  10002
+				15-24 years  5490
+				35-54 years  25080
+				25-34 years  10314
+				55-74 years  15338
+Belgium	62761
+				male  44749
+						35-54 years  17404
+						75+ years  5702
+						25-34 years  6765
+						55-74 years  11205
+				female  18012
+						35-54 years  6896
+						55-74 years  5682
+				35-54 years  24300
+				75+ years  8152
+				25-34 years  8731
+				55-74 years  16887
+Brazil	226613
+				male  177598
+						15-24 years  33720
+						35-54 years  62500
+						75+ years  7435
+						25-34 years  42469
+						55-74 years  29844
+				female  49015
+						15-24 years  10877
+						35-54 years  17360
+						25-34 years  10065
+						55-74 years  7712
+				15-24 years  44597
+				35-54 years  79860
+				75+ years  9037
+				25-34 years  52534
+				55-74 years  37556
+Bulgaria	36388
+				male  26420
+						35-54 years  7885
+						75+ years  4961
+						55-74 years  8879
+				female  9968
+				35-54 years  10049
+				75+ years  7439
+				55-74 years  12734
+Canada	107561
+				male  83377
+						15-24 years  12823
+						35-54 years  33431
+						75+ years  4571
+						25-34 years  16024
+						55-74 years  15906
+				female  24184
+						35-54 years  10583
+						55-74 years  4942
+				15-24 years  15909
+				35-54 years  44014
+				75+ years  5814
+				25-34 years  19997
+				55-74 years  20848
+Chile	40895
+				male  34061
+						15-24 years  6256
+						35-54 years  11998
+						25-34 years  7424
+						55-74 years  6274
+				female  6834
+				15-24 years  7845
+				35-54 years  14477
+				25-34 years  8775
+				55-74 years  7274
+Colombia	53080
+				male  41737
+						15-24 years  12666
+						35-54 years  10919
+						25-34 years  10188
+						55-74 years  5532
+				female  11343
+						15-24 years  5290
+				15-24 years  17956
+				35-54 years  12990
+				25-34 years  12455
+				55-74 years  6232
+Costa Rica	6792
+				male  5813
+Croatia	18429
+				male  13754
+						35-54 years  4514
+						55-74 years  4804
+				female  4675
+				35-54 years  5744
+				55-74 years  6703
+Cuba	41418
+				male  29743
+						35-54 years  9886
+						75+ years  5272
+						55-74 years  8289
+				female  11675
+				35-54 years  13570
+				75+ years  6573
+				25-34 years  5827
+				55-74 years  11741
+Czech Republic	43687
+				male  34440
+						35-54 years  13799
+						25-34 years  4677
+						55-74 years  9074
+				female  9247
+				35-54 years  16885
+				75+ years  5492
+				25-34 years  5498
+				55-74 years  12042
+Denmark	15297
+				male  10968
+				35-54 years  5738
+				55-74 years  4683
+Ecuador	20660
+				male  14422
+						15-24 years  4515
+				female  6238
+				15-24 years  7662
+				35-54 years  4554
+				25-34 years  4853
+El Salvador	11683
+				male  8338
+Estonia	7034
+				male  5641
+Finland	33677
+				male  26017
+						35-54 years  10740
+						25-34 years  4593
+						55-74 years  5908
+				female  7660
+				35-54 years  13908
+				25-34 years  5634
+				55-74 years  8093
+France	329127
+				male  239708
+						15-24 years  15410
+						35-54 years  91197
+						75+ years  39967
+						25-34 years  33384
+						55-74 years  59114
+				female  89419
+						35-54 years  32313
+						75+ years  15905
+						25-34 years  9126
+						55-74 years  27395
+				15-24 years  19849
+				35-54 years  123510
+				75+ years  55872
+				25-34 years  42510
+				55-74 years  86509
+Germany	291262
+				male  211555
+						15-24 years  14217
+						35-54 years  74784
+						75+ years  33042
+						25-34 years  26404
+						55-74 years  62530
+				female  79707
+						35-54 years  23049
+						75+ years  19515
+						25-34 years  6543
+						55-74 years  26661
+				15-24 years  17902
+				35-54 years  97833
+				75+ years  52557
+				25-34 years  32947
+				55-74 years  89191
+Greece	12368
+				male  9828
+Guatemala	8149
+				male  6176
+Hungary	73891
+				male  55776
+						35-54 years  23873
+						75+ years  6606
+						25-34 years  5867
+						55-74 years  16370
+				female  18115
+						35-54 years  5937
+						55-74 years  6319
+				35-54 years  29810
+				75+ years  10675
+				25-34 years  7000
+				55-74 years  22689
+Ireland	12574
+				male  10123
+Israel	11294
+				male  8613
+Italy	132060
+				male  99179
+						15-24 years  6879
+						35-54 years  29449
+						75+ years  18327
+						25-34 years  12867
+						55-74 years  31383
+				female  32881
+						35-54 years  9801
+						75+ years  6083
+						55-74 years  11931
+				15-24 years  8571
+				35-54 years  39250
+				75+ years  24410
+				25-34 years  16115
+				55-74 years  43314
+Japan	806902
+				male  555272
+						15-24 years  35974
+						35-54 years  209755
+						75+ years  54219
+						25-34 years  66753
+						55-74 years  187173
+				female  251630
+						15-24 years  16314
+						35-54 years  68924
+						75+ years  52352
+						25-34 years  27776
+						55-74 years  85532
+				15-24 years  52288
+				35-54 years  278679
+				75+ years  106571
+				25-34 years  94529
+				55-74 years  272705
+Kazakhstan	101546
+				male  83386
+						15-24 years  14498
+						35-54 years  32425
+						25-34 years  20595
+						55-74 years  12659
+				female  18160
+						35-54 years  5173
+				15-24 years  18774
+				35-54 years  37598
+				25-34 years  23861
+				55-74 years  16122
+Kyrgyzstan	13090
+				male  10453
+				35-54 years  4534
+Latvia	12770
+				male  10296
+				35-54 years  5033
+Lithuania	28039
+				male  23028
+						35-54 years  10118
+						55-74 years  5732
+				female  5011
+				35-54 years  11952
+				55-74 years  7277
+Mexico	111139
+				male  91805
+						15-24 years  26083
+						35-54 years  25483
+						25-34 years  23172
+						55-74 years  10865
+				female  19334
+						15-24 years  7581
+						35-54 years  4514
+				15-24 years  33664
+				35-54 years  29997
+				25-34 years  27226
+				55-74 years  12318
+Netherlands	50833
+				male  33947
+						35-54 years  13797
+						25-34 years  5494
+						55-74 years  8485
+				female  16886
+						35-54 years  6585
+						55-74 years  4959
+				35-54 years  20382
+				75+ years  4946
+				25-34 years  7801
+				55-74 years  13444
+New Zealand	14383
+				male  11028
+				35-54 years  4634
+Norway	16992
+				male  12307
+				female  4685
+				35-54 years  6052
+Paraguay	4783
+Philippines	21330
+				male  16057
+						15-24 years  4964
+				female  5273
+				15-24 years  7107
+				35-54 years  5716
+				25-34 years  5358
+Poland	139098
+				male  118035
+						15-24 years  13402
+						35-54 years  51726
+						75+ years  5044
+						25-34 years  18214
+						55-74 years  28973
+				female  21063
+						35-54 years  8335
+						55-74 years  6785
+				15-24 years  15191
+				35-54 years  60061
+				75+ years  6938
+				25-34 years  20301
+				55-74 years  35758
+Portugal	24061
+				male  18187
+						35-54 years  4991
+						55-74 years  6079
+				female  5874
+				35-54 years  6535
+				75+ years  5157
+				55-74 years  8189
+Puerto Rico	9043
+				male  7989
+Republic of Korea	261730
+				male  179115
+						15-24 years  15056
+						35-54 years  70081
+						75+ years  15474
+						25-34 years  27614
+						55-74 years  50153
+				female  82615
+						15-24 years  9187
+						35-54 years  26211
+						75+ years  12552
+						25-34 years  15553
+						55-74 years  18421
+				15-24 years  24243
+				35-54 years  96292
+				75+ years  28026
+				25-34 years  43167
+				55-74 years  68574
+Romania	72777
+				male  59595
+						15-24 years  4878
+						35-54 years  25380
+						25-34 years  8020
+						55-74 years  17088
+				female  13182
+						55-74 years  4790
+				15-24 years  5981
+				35-54 years  29720
+				75+ years  5357
+				25-34 years  9243
+				55-74 years  21878
+Russian Federation	1209742
+				male  995412
+						15-24 years  126379
+						35-54 years  414090
+						75+ years  38034
+						25-34 years  204787
+						55-74 years  205284
+						5-14 years  6838
+				female  214330
+						15-24 years  22232
+						35-54 years  65050
+						75+ years  36177
+						25-34 years  26400
+						55-74 years  62469
+				15-24 years  148611
+				35-54 years  479140
+				75+ years  74211
+				25-34 years  231187
+				55-74 years  267753
+				5-14 years  8840
+Serbia	24179
+				male  17416
+						35-54 years  5244
+						55-74 years  6427
+				female  6763
+				35-54 years  6947
+				75+ years  4874
+				55-74 years  9230
+Singapore	10089
+				male  6296
+Slovakia	13437
+				male  11413
+						35-54 years  5239
+				35-54 years  6085
+Slovenia	10615
+				male  8313
+South Africa	7321
+				male  5719
+Spain	100202
+				male  75533
+						15-24 years  6059
+						35-54 years  23116
+						75+ years  13985
+						25-34 years  10767
+						55-74 years  21343
+				female  24669
+						35-54 years  7215
+						75+ years  4793
+						55-74 years  8464
+				15-24 years  7559
+				35-54 years  30331
+				75+ years  18778
+				25-34 years  13373
+				55-74 years  29807
+Sri Lanka	55641
+				male  42043
+						15-24 years  8508
+						35-54 years  14747
+						25-34 years  9551
+						55-74 years  6941
+				female  13598
+						15-24 years  5852
+				15-24 years  14360
+				35-54 years  17439
+				25-34 years  12685
+				55-74 years  8105
+Sweden	37795
+				male  26612
+						35-54 years  9490
+						55-74 years  7490
+				female  11183
+				35-54 years  13485
+				75+ years  5083
+				25-34 years  4983
+				55-74 years  10720
+Switzerland	26217
+				male  18478
+						35-54 years  6370
+						55-74 years  5217
+				female  7739
+				35-54 years  8846
+				75+ years  4712
+				55-74 years  7707
+Thailand	110643
+				male  82542
+						15-24 years  16323
+						35-54 years  28822
+						25-34 years  22129
+						55-74 years  12285
+				female  28101
+						15-24 years  6699
+						35-54 years  9570
+						25-34 years  6006
+				15-24 years  23022
+				35-54 years  38392
+				25-34 years  28135
+				55-74 years  16646
+Turkey	10131
+				male  7562
+Turkmenistan	8624
+				male  6528
+Ukraine	319950
+				male  258573
+						15-24 years  23294
+						35-54 years  106689
+						75+ years  14749
+						25-34 years  43909
+						55-74 years  68410
+				female  61377
+						35-54 years  18032
+						75+ years  11004
+						25-34 years  5724
+						55-74 years  21975
+				15-24 years  27509
+				35-54 years  124721
+				75+ years  25753
+				25-34 years  49633
+				55-74 years  90385
+United Kingdom	136805
+				male  104118
+						15-24 years  12154
+						35-54 years  42033
+						75+ years  7201
+						25-34 years  21345
+						55-74 years  21235
+				female  32687
+						35-54 years  12052
+						25-34 years  4942
+						55-74 years  8847
+				15-24 years  14925
+				35-54 years  54085
+				75+ years  11184
+				25-34 years  26287
+				55-74 years  30082
+United States	1034013
+				male  820216
+						15-24 years  118776
+						35-54 years  289345
+						75+ years  81189
+						25-34 years  148251
+						55-74 years  176179
+						5-14 years  6476
+				female  213797
+						15-24 years  22903
+						35-54 years  91572
+						75+ years  14488
+						25-34 years  33796
+						55-74 years  48591
+				15-24 years  141679
+				35-54 years  380917
+				75+ years  95677
+				25-34 years  182047
+				55-74 years  224770
+				5-14 years  8923
+Uruguay	13138
+				male  10318
+Uzbekistan	34803
+				male  25543
+						15-24 years  5908
+						35-54 years  9167
+						25-34 years  6387
+				female  9260
+				15-24 years  9673
+				35-54 years  10964
+				25-34 years  8578
+male	5188910
+						15-24 years  633105
+						35-54 years  1945908
+						75+ years  431134
+						25-34 years  915089
+						55-74 years  1228407
+						5-14 years  35267
+female	1559510
+						15-24 years  175437
+						35-54 years  506233
+						75+ years  221984
+						25-34 years  208823
+						55-74 years  430036
+						5-14 years  16997
+15-24 years	808542
+35-54 years	2452141
+75+ years	653118
+25-34 years	1123912
+55-74 years	1658443
+5-14 years	52264
