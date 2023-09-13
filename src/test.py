@@ -31,3 +31,5 @@ print(df)
 
 print("\nCounts:")
 print(dataCount)
+
+print(df.iloc[0, 2])
